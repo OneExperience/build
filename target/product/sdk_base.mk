@@ -30,6 +30,7 @@ PRODUCT_PACKAGES := \
 	libWnnEngDic \
 	libWnnJpnDic \
 	LiveWallpapersPicker \
+	WallpaperPicker \
 	Mms \
 	Music \
 	OpenWnn \
